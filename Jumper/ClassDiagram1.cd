@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="FullSignature">
+  <Class Name="Jumper.BackGroundClass" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAEAAAABAAAABAAABQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackGroundClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameManager" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ETQBAAAEAcKABoAEAIABAYIAABABAEAIACAACUCBAAg=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.JumperGame" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEIIBAgAAwAAAAAAAEgEAAAAAAgAAAAAAAAAIAQ=</HashCode>
+      <FileName>JumperGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.MainMenu" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAgAAQAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.AnimatedSprite" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAQAAAIAAAgAAAAAAAAAIEAABAEGAIAgBAAAAAAE=</HashCode>
+      <FileName>GameObjects\AminatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.Block" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.Bonus" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.DragonEnemy" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAoAAAAAAAABAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\DragonEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.FireBall" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAIAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\FireBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.GameObject" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAQCAAgAAAAAAAAAAABAgAAQAAAAAgAAAAAA=</HashCode>
+      <FileName>GameObjects\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.Hero" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQIACAAAgEAAgoAAMAAAIABDgAIAgCABBCgACACAAA=</HashCode>
+      <FileName>GameObjects\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.House" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.KnightEnemy" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\KnightEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.GameObjects.Line" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASEAAAAAgAAEhIAoAAAAAAJAAAAAAAABAAABAAAOAA=</HashCode>
+      <FileName>GameObjects\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.Helpers.BoolRandom" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Helpers\BoolRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.Helpers.LoadHelper" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\LoadHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper.Helpers.SlowSpeed" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\SpeedStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Jumper.Helpers.MediumSpeed" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\SpeedStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Jumper.Helpers.FastSpeed" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\SpeedStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Jumper.Helpers.RandomSpeed" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Helpers\SpeedStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Jumper.Helpers.ISpeedStrategy" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\SpeedStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Jumper.Enums.LinesDirectionEnum" Collapsed="true">
+    <Position X="3" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAEAAAA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Jumper.Enums.HeroEnum" Collapsed="true">
+    <Position X="11.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Jumper.Enums.BonusEnum" Collapsed="true">
+    <Position X="5.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAABAAAAAAAAEAAAAAEAAAA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Jumper.Enums.GameStateEnum" Collapsed="true">
+    <Position X="9.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgIAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Jumper.Helpers.TextureEnum" Collapsed="true">
+    <Position X="1" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAgQAIAEAgAggAAAEQYAAAgAAAIAAKAAAAEIAA=</HashCode>
+      <FileName>Helpers\LoadHelper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Jumper.Helpers.FontEnum" Collapsed="true">
+    <Position X="7.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Helpers\LoadHelper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="9" />
+</ClassDiagram>
